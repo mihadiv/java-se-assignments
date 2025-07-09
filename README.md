@@ -37,22 +37,6 @@ Each folder named `assignmentXX` includes:
 
 ---
 
-## 📦 Packaging Note
-
-Assignments follow this packaging rule for submissions:
-
-```
-JavaSE_A0X_SURNAME_FirstName1_FirstName2.zip
-```
-
-Include:
-- `.java` source files
-- `.sh` or `.bat` script
-- any required diagrams (`.jpg`)
-- README with task description
-
----
-
 ## 📚 Source & Credit
 
 Problems are taken from the Java course available at:
