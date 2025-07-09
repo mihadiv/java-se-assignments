@@ -1,0 +1,33 @@
+# Java compiled class files
+**/*.class
+
+# Log files
+*.log
+
+# Java package files
+*.jar
+*.war
+*.ear
+
+# IDEs and build systems
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+target/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Shell / batch script backups
+*.sh~
+*.bat~
+
+# VS Code settings
+.vscode/
+
+# Local environment variables
+*.env
