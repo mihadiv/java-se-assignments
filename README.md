@@ -13,7 +13,6 @@ Each folder named `assignmentXX` includes:
 - Java source code in a `src/` directory
 - A `run.bat` (Windows) and/or `run.sh` (Linux/macOS) script to compile and execute the program
 - A `README.md` with the original problem description
-- Logic diagrams (in `assignment05`, if applicable)
 
 ---
 
