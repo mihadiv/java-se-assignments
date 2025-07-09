@@ -1,4 +1,4 @@
-# Java SE Assignments 2025
+# ☕ Java SE Assignments 
 
 This repository contains a collection of structured Java SE programming assignments developed for academic coursework and personal practice.
 
